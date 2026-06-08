@@ -2,3 +2,4 @@ Nama	: Maya Agustin
 NIM	: E1E124067
 Mata Kuliah	: Sistem Paralel dan Terdistribusi
 Praktikum GitHub Push dan Pull
+Data diubah melalui github
